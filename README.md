@@ -92,8 +92,4 @@ http://localhost:3000
 Autenticação JWT: Implementação de autenticação e proteção de rotas sensíveis.
 Dotenv: Variáveis de ambiente mantêm seguras informações confidenciais como tokens e credenciais do banco de dados.
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ## ⚡ Feito por Hebson Sousa durante o programa Geração Tech.
